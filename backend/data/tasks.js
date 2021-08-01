@@ -1,0 +1,73 @@
+const tasks = [
+  {
+    _id: 1,
+    description: "my description",
+    title: "Task 1",
+    isCompleted: false,
+    list: 1,
+  },
+  {
+    _id: 2,
+    description: "my description",
+    title: "Task 2",
+    isCompleted: false,
+    list: 1,
+  },
+  {
+    _id: 3,
+    description: "my description",
+    title: "Task 3",
+    isCompleted: false,
+    list: 1,
+  },
+  {
+    _id: 4,
+    description: "my description",
+    title: "Task 4",
+    isCompleted: true,
+    list: 1,
+  },
+  {
+    _id: 5,
+    description: "my description",
+    title: "Task 5",
+    isCompleted: true,
+    list: 1,
+  },
+  {
+    _id: 6,
+    description: "my description",
+    title: "Project 1",
+    isCompleted: true,
+    list: 3,
+  },
+  {
+    _id: 7,
+    description: "my description",
+    title: "Project 1",
+    isCompleted: true,
+    list: 2,
+  },
+  {
+    _id: 8,
+    description: "my description",
+    title: "Project 1",
+    isCompleted: true,
+    list: 4,
+  },
+  {
+    _id: 9,
+    description: "my description",
+    title: "Project 1",
+    isCompleted: true,
+    list: 5,
+  },
+  {
+    _id: 10,
+    description: "Computer Science",
+    title: "Project 1",
+    isCompleted: true,
+    list: 6,
+  },
+];
+export default tasks;
